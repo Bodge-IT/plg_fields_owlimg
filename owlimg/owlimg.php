@@ -25,6 +25,7 @@ class PlgFieldsOwlimg extends FieldsListPlugin
 		$fieldNode->setAttribute('directory', 'images/');
 		$fieldNode->setAttribute('hide_default', true);
 		$fieldNode->setAttribute('hide_none', true);
+		$fieldNode->setAttribute('recursive', true);
 
 		return $fieldNode;
 	}
