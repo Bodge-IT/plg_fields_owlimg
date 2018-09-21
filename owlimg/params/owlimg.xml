@@ -8,7 +8,6 @@
 				type="text"
 				label="PLG_FIELDS_OWLIMG_CUSTOMCLASS"
 				desc="PLG_FIELDS_OWLIMG_CUSTOMCLASS_DESC"
-				filter="cmd"
 				default="myowl"
 			/>
 
